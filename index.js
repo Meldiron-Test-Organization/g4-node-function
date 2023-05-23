@@ -9,7 +9,7 @@ module.exports = async (context) => {
     <title>Document</title>
 </head>
 <body>
-      <h1>Hello World 3! 👋👋👋</h1>
+      <h1>Hello World Branch! 👋👋👋</h1>
 </body>
 </html>`;
   return context.res.send(code, 200, {
